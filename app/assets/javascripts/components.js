@@ -1,0 +1,1 @@
+global.App = require('components/App.jsx').default;
